@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actionbar Tabs Example</string>
+    <string name="tab1">Audio</string>
+    <string name="tab2">Video</string>
+</resources>
